@@ -1,0 +1,23 @@
+# Default file type to folder mapping
+FILE_TYPE_MAP = {
+    ".pdf": "Documents",
+    ".docx": "Documents",
+    ".txt": "Documents",
+    ".jpg": "Images",
+    ".jpeg": "Images",
+    ".png": "Images",
+    ".gif": "Images",
+    ".mp4": "Videos",
+    ".mkv": "Videos",
+    ".mp3": "Music",
+    ".zip": "Archives",
+    ".rar": "Archives",
+    ".exe": "Applications",
+    ".apk": "Applications",
+    ".csv": "Spreadsheets",
+    ".xlsx": "Spreadsheets",
+    ".pptx": "Presentations",
+    ".html": "Code",
+    ".py": "Code",
+    ".js": "Code",
+}
